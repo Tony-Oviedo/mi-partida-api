@@ -1,0 +1,22 @@
+{
+  "name": "mi-partida-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tony-Oviedo/mi-partida-api.git"
+  },
+  "author": "Tony Oviedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tony-Oviedo/mi-partida-api/issues"
+  },
+  "homepage": "https://github.com/Tony-Oviedo/mi-partida-api#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
